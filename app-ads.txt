@@ -4,7 +4,6 @@ appodeal.com, 115011, RESELLER
 #BidMachine
 bidmachine.io, 115011, RESELLER
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
 google.com, , DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
@@ -480,8 +479,8 @@ improvedigital.com, 1408, RESELLER
 uis.mobfox.com, 1373, RESELLER, 5529a3d1f59865be
 yieldmo.com, 2899597854118977801, Reseller
 #Unruly
-rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
-video.unrulymedia.com, 3634565696, RESELLER
+rhythmone.com, 3634565696, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 3634565696, RESELLER
 indexexchange.com, 182257, RESELLER
 appnexus.com, 6849, RESELLER
 rubiconproject.com, 15268, RESELLER
